@@ -1,0 +1,9 @@
+<library path="libgamesh_colored_mesh_rviz">
+  <class name="rviz/Gamesh Colored Mesh Display"
+         type="rviz::ColoredMeshDisplayCustom"
+         base_class_type="rviz::Display">
+    <description>
+      Customized display plugin for colored meshes pubblished by Gamesh.
+    </description>
+  </class>
+</library>
